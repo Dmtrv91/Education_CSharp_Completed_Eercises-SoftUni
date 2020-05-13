@@ -1,19 +1,15 @@
 ﻿using System;
 
-namespace ConsoleAppGlava2Exercises6
+//6. Декларирайте променлива isMale от тип bool и присвоете стойност на последната в зависимост от вашия пол.
+
+namespace ConsoleAppGlava2Exercise6
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //6. Декларирайте променлива isMale от тип bool и присвоете 
-            //стойност на последната в зависимост от вашия пол.
-
-            //string isMale = (Console.ReadLine());
-            //string isMaleWoman = (Console.ReadLine());
             var isMaleMan = 2;
             var isMaleWoman = 1; //2
-            //bool isMale = (isMaleMan > isMaleWoman);
 
             bool isMaleAB = (isMaleMan > isMaleWoman);
             bool isMaleA1 = (isMaleMan == 1);
