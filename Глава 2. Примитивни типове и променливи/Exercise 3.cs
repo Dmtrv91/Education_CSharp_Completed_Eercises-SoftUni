@@ -2,7 +2,7 @@
 
 //Напишете програма, която сравнява вярно две реални числа с точност до 0.000001.
 
-namespace ConsoleAppGlava2Exercice1
+namespace ConsoleAppGlava2Exercise1
 {
     class Program
     {
