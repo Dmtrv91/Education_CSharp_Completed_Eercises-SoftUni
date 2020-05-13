@@ -1,18 +1,22 @@
 ﻿using System;
 
-namespace ConsoleAppGlava2Exercice13
+//Декларирайте две променливи от тип int. Задайте им стойности съответно 5 и 10. Разменете стойностите им и ги отпечатайте.
+
+namespace ConsoleAppGlava2Exercise13
 {
     class Program
     {
         static void Main(string[] args)
         {
             int a = 5;
-            int b = 7;
-            string sum = "Sum = " + (a + b);
-            Console.WriteLine(sum);
-            String incorrect = "Sum=  " + a + b;
-            Console.WriteLine(incorrect);
-            Console.WriteLine("Perimeter = " + 2 * (a + b) + ". Area = " + (a * b) + ".");
+            int b = 10;
+
+            int oldA = a;
+            a = b;
+            b = oldA;
+            
+        Console.WriteLine("old a = 5, old b = 10");
+		Console.WriteLine("new a = {0}, new b = {1}", a, b);
         }
     }
 }
