@@ -2,7 +2,7 @@
 
 //Напишете програма, която пресмята сумата (с точност до 0.001): 1+ 1/2 + 1/3 + 1/4 + 1/5 + ...
 
-namespace ConsoleAppConsoleAppGlava4Excercises13
+namespace ConsoleAppConsoleAppGlava4Exercises13
 {
     class Program
     {
