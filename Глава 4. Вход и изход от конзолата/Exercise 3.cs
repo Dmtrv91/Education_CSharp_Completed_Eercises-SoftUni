@@ -1,7 +1,7 @@
 ﻿using System;
 
 //Дадена фирма има име, адрес, телефонен номер, факс номер, уеб сайт и мениджър. Мениджърът има име, фамилия и телефонен номер.
-namespace ConsoleAppConsoleAppGlava4Excercises3
+namespace ConsoleAppConsoleAppGlava4Exercises3
 {
     class Program
     {
