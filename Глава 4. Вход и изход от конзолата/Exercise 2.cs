@@ -2,7 +2,7 @@
 
 //Напишете програма, която чете от конзолата радиуса "r" на кръг и отпечатва неговото лице и обиколка.
 
-namespace ConsoleAppConsoleAppGlava4Excercises2
+namespace ConsoleAppConsoleAppGlava4Exercises2
 {
     class Program
     {
