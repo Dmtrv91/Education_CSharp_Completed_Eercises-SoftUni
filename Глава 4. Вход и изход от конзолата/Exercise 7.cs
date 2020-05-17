@@ -2,7 +2,7 @@
 
 //Напишете програма, която чете пет числа и отпечатва тяхната сума. При невалидно въведено число да се подкани потребителя да въведе друго число.
 
-namespace ConsoleAppConsoleAppGlava4Excercises7
+namespace ConsoleAppConsoleAppGlava4Exercises7
 {
     class Program
     {

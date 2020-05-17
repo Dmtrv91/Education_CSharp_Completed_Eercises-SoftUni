@@ -3,7 +3,7 @@
 //Напишете програма, която чете от конзолата две цели числа (int) и отпечатва колко числа има между тях, такива, че остатъкът 
 //им от деленето на 5 да е 0. Пример: в интервала (17, 25) има 2 такива числа.
 
-namespace ConsoleAppGlava4Excercises5
+namespace ConsoleAppGlava4Exercises5
 {
     class Program
     {

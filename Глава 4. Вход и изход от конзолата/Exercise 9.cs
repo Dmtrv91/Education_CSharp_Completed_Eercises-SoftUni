@@ -2,7 +2,7 @@
 
 //Напишете програма, която прочита едно цяло число n от конзолата. След това прочита още n на брой числа от конзолата и отпечатва тяхната сума.
 
-namespace ConsoleAppConsoleAppGlava4Excercises10
+namespace ConsoleAppConsoleAppGlava4Exercises10
 {
     class Program
     {

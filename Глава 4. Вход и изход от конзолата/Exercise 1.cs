@@ -2,7 +2,7 @@
 
 //Напишете програма, която чете от конзолата три числа от тип int и отпечатва тяхната сума.
 
-namespace ConsoleAppGlava4Excercises1
+namespace ConsoleAppGlava4Exercises1
 {
     class Program
     {

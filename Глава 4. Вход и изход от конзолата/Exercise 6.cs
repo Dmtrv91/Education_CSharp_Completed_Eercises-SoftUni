@@ -2,7 +2,7 @@
 
 //Напишете програма, която чете две числа от конзолата и отпечатва по-голямото от тях. Решете задачата без да използвате условни конструкции.
 
-namespace ConsoleAppConsoleAppGlava4Excercises6
+namespace ConsoleAppConsoleAppGlava4Exercises6
 {
     class Program
     {
