@@ -1,0 +1,4 @@
+
+//Да се намерят всички стандартни изключения от йерархията на System.IO.IOException.
+
+https://docs.microsoft.com/en-us/dotnet/api/system.io.ioexception?redirectedfrom=MSDN&view=netcore-3.1

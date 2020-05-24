@@ -1,0 +1,4 @@
+
+//Да се намерят всички стандартни изключения от йерархията на System.ApplicationException.
+
+https://docs.microsoft.com/en-us/dotnet/api/system.applicationexception?redirectedfrom=MSDN&view=netcore-3.1
